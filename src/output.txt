@@ -1,0 +1,931 @@
+720
+ability
+able
+abode
+about
+above
+absolute
+acceptance
+account
+acuteness
+add
+added
+addition
+additions
+address
+admiration
+admire
+admitting
+advanced
+advantage
+affixed
+afford
+affronting
+afraid
+age
+agreeable
+agreed
+agreement
+all
+allow
+allowance
+alteration
+although
+am
+among
+amounted
+an
+and
+announcing
+answer
+answered
+anxious
+any
+appearance
+applauded
+are
+arranging
+arrived
+as
+ask
+assistance
+assurance
+assure
+assured
+at
+attachment
+attacks
+attempted
+attended
+attention
+avoid
+bachelor
+be
+bed
+been
+began
+begin
+behaviour
+being
+believe
+believed
+beloved
+besides
+beyond
+blessing
+blind
+body
+boisterous
+bore
+both
+boy
+branched
+breakfast
+bred
+building
+built
+but
+by
+called
+can
+cannot
+carried
+case
+celebrated
+certainly
+certainty
+chamber
+change
+charm
+chief
+chiefly
+child
+children
+civil
+civilly
+cold
+collected
+comfort
+commanded
+companions
+company
+comparison
+compass
+concerns
+concluded
+confined
+connection
+consider
+consulted
+contented
+continue
+continued
+continuing
+conveying
+conviction
+cordially
+could
+country
+county
+course
+danger
+dare
+dashwoods
+daughter
+day
+dear
+death
+debating
+decisively
+defective
+deficient
+dejection
+delay
+delighted
+delightful
+delivered
+denote
+depart
+dependent
+described
+design
+desirous
+determine
+devonshire
+did
+differed
+difficult
+difficulty
+dining
+direction
+discourse
+discovered
+discovery
+discretion
+dispatched
+disposal
+disposed
+disposing
+dissimilar
+distrusts
+do
+doubtful
+down
+downs
+drawing
+drawings
+drift
+dull
+dwelling
+each
+eagerness
+easily
+eat
+ecstatic
+effects
+elderly
+eldest
+elegance
+enable
+endeavor
+enjoy
+enjoyment
+enough
+entirely
+entrance
+entreaties
+equal
+equally
+especially
+esteem
+estimable
+estimating
+even
+ever
+everything
+evident
+excellence
+excellent
+excuse
+exercise
+expense
+explained
+expression
+exquisite
+extensive
+extremity
+eyes
+face
+fact
+families
+fanny
+far
+fat
+father
+favourable
+favourite
+feebly
+feel
+feelings
+felicity
+felt
+ferrars
+fertile
+few
+fine
+five
+folly
+for
+forbade
+forfeited
+form
+formed
+former
+formerly
+forth
+forty
+found
+four
+frequently
+friendly
+friendship
+from
+fruit
+full
+fully
+furniture
+future
+game
+garden
+garret
+gate
+gay
+genius
+get
+girl
+give
+going
+good
+graceful
+grave
+great
+greatest
+green
+guest
+had
+half
+ham
+happiness
+has
+have
+he
+head
+heard
+hearing
+hearted
+held
+her
+herself
+highest
+him
+his
+hold
+honoured
+hoped
+horrible
+household
+how
+however
+humanity
+humoured
+hung
+if
+imagine
+immediate
+impossible
+impression
+improved
+improving
+in
+incommode
+increasing
+indulged
+indulgence
+inhabiting
+innate
+inquiry
+insipidity
+insisted
+instantly
+instrument
+intention
+into
+introduced
+invited
+is
+it
+its
+itself
+jennings
+jointure
+jokes
+joy
+judgment
+justice
+juvenile
+keeps
+kept
+knew
+know
+ladies
+lady
+lain
+landlord
+lasted
+lasting
+late
+laughing
+laughter
+learn
+learning
+least
+leave
+led
+letter
+letters
+like
+likewise
+listening
+little
+lived
+lively
+long
+looked
+looking
+lose
+loud
+make
+man
+manners
+many
+marriage
+marry
+match
+material
+matter
+may
+me
+mean
+means
+melancholy
+men
+merely
+merry
+message
+met
+middleton
+middletons
+might
+minuter
+minutes
+mirth
+mistaken
+mistress
+moderate
+moment
+moments
+money
+months
+more
+most
+motionless
+mr
+mrs
+much
+music
+must
+mutual
+my
+narrow
+natural
+nature
+nay
+nearer
+neat
+necessary
+need
+needed
+never
+new
+next
+no
+noise
+nor
+northward
+not
+nothing
+now
+number
+object
+objection
+observe
+occasion
+occasional
+of
+off
+offended
+offending
+offer
+offering
+oh
+old
+on
+one
+open
+opinions
+oppose
+or
+order
+other
+others
+otherwise
+our
+out
+outlived
+outweigh
+over
+own
+parish
+parlors
+part
+particular
+party
+passage
+passed
+people
+perceive
+perceived
+perfectly
+performed
+perhaps
+period
+pianoforte
+piqued
+placing
+played
+pleasant
+pleased
+pleasure
+point
+points
+polite
+possession
+possible
+post
+power
+pressed
+pretend
+pretended
+pretty
+prevailed
+prevent
+principle
+private
+proceed
+projecting
+projection
+promotion
+properly
+property
+proposal
+propriety
+prosperous
+provided
+pulled
+purse
+pursuit
+put
+quick
+quiet
+quitting
+rank
+rapid
+raptures
+rapturous
+read
+ready
+really
+received
+recommend
+recurred
+regret
+relation
+remainder
+remark
+remarkably
+remember
+removing
+rendered
+repeated
+repulsive
+required
+resolving
+result
+returned
+rich
+roof
+room
+rose
+roused
+same
+satisfied
+saw
+say
+scarcely
+screened
+see
+seeing
+seems
+seen
+sell
+sense
+sensible
+separate
+september
+service
+set
+settling
+several
+sex
+shall
+she
+shed
+shortly
+shot
+should
+shy
+silent
+simple
+since
+sincerity
+sir
+sitting
+situation
+six
+size
+smallest
+smallness
+so
+sold
+solicitude
+solid
+something
+sometimes
+son
+songs
+sons
+soon
+speedily
+spirit
+spite
+sportsmen
+spot
+square
+stairs
+stand
+stanhill
+started
+state
+steepest
+stimulated
+stood
+strangers
+strictly
+stronger
+subject
+subjects
+such
+suffer
+suffering
+sufficient
+suitable
+supply
+suppose
+supposing
+sure
+surrounded
+suspected
+suspicion
+sweetness
+table
+taken
+talked
+talking
+tall
+tears
+tell
+temper
+ten
+terminated
+terms
+than
+that
+the
+their
+theirs
+them
+themselves
+then
+therefore
+these
+think
+this
+thoroughly
+those
+though
+through
+throwing
+thrown
+tiled
+timed
+to
+together
+tolerably
+too
+took
+totally
+towards
+travelling
+trees
+tried
+trifling
+truth
+uncommonly
+understood
+unknown
+unpacked
+unreserved
+unsatiable
+up
+use
+vanity
+venture
+very
+view
+viewing
+visit
+visited
+voice
+walls
+want
+wanted
+warmly
+warrant
+was
+way
+we
+weddings
+week
+weeks
+welcome
+welcomed
+well
+went
+what
+whatever
+while
+who
+wholly
+whom
+why
+widow
+will
+winter
+wisdom
+wise
+wishing
+with
+within
+witty
+wonder
+wondered
+would
+written
+wrong
+wrote
+ye
+years
+yet
+you
+young
+yourself
+324 30 318 601 44 160 577 
+552 194 690 551 346 699 442 393 565 
+685 546 472 258 280 
+48 308 382 54 244 350 715 600 
+37 105 585 717 706 
+145 385 638 376 54 
+55 109 367 684 206 296 286 471 
+455 218 28 583 625 641 42 290 
+420 317 115 433 686 650 533 650 137 527 
+335 447 254 577 170 461 378 719 
+619 411 289 330 507 
+308 229 668 650 268 391 294 117 
+3 417 640 650 54 
+577 13 414 114 325 277 170 441 94 500 
+441 308 272 620 170 437 708 433 
+713 170 478 60 87 252 348 446 308 136 
+577 462 297 72 323 107 185 62 376 
+678 65 433 101 103 33 282 293 407 
+540 487 401 441 170 152 87 
+440 483 654 37 49 548 218 534 
+367 194 556 70 182 331 
+396 48 176 66 441 650 
+111 668 316 198 161 376 433 138 308 615 
+479 573 684 192 560 326 223 
+236 558 173 624 276 272 245 
+7 386 376 301 163 77 657 36 
+560 501 122 195 109 666 718 77 
+385 590 570 426 125 49 13 237 
+718 627 432 541 204 86 124 
+133 533 509 233 45 134 18 81 
+170 191 139 429 446 685 301 225 
+54 709 21 577 130 90 242 546 
+484 675 98 396 10 282 418 448 506 
+58 420 311 370 324 650 332 438 342 
+426 237 368 669 278 110 69 458 
+350 422 461 696 714 695 154 
+208 241 48 324 26 16 577 441 532 457 
+506 669 555 662 38 37 657 
+30 618 159 650 48 414 
+491 439 211 207 170 407 616 123 308 
+207 718 154 638 467 613 149 
+10 718 674 627 197 69 506 
+552 219 407 441 175 170 439 435 602 187 
+465 329 62 392 87 328 497 
+36 15 54 280 161 157 122 
+685 308 84 526 482 610 249 441 
+411 385 289 17 118 37 67 583 295 
+519 18 280 439 651 194 587 610 
+515 659 261 597 222 126 80 326 34 559 
+37 570 131 673 86 455 367 
+577 54 707 401 650 567 52 
+401 167 121 325 436 46 308 685 
+215 48 301 82 27 
+434 426 392 502 452 294 444 
+489 401 652 160 51 200 44 650 577 
+289 204 379 662 86 579 313 495 434 
+116 599 201 206 36 650 305 
+572 17 496 54 446 650 466 62 
+401 9 685 48 200 191 668 
+36 285 345 48 230 338 
+348 170 29 580 650 269 
+385 617 24 286 59 
+100 557 63 326 705 
+324 577 395 441 96 485 650 
+171 717 684 497 40 298 326 151 
+388 69 554 47 104 10 28 
+9 30 36 54 180 225 308 214 213 715 
+577 227 64 336 62 54 260 
+62 553 325 214 439 114 433 95 
+308 514 399 260 54 76 285 325 203 420 
+622 333 689 383 315 308 596 433 33 376 
+352 456 284 288 676 344 570 645 112 290 
+273 648 280 507 87 577 639 658 33 
+325 38 31 54 615 111 
+325 48 38 325 376 599 248 122 
+350 633 560 718 426 5 266 594 244 
+280 488 256 23 564 262 588 441 
+555 498 12 84 506 356 263 
+433 701 54 549 691 54 48 
+653 679 86 623 411 355 440 
+526 720 62 308 40 280 
+117 431 263 306 289 560 182 
+353 87 360 439 146 36 
+603 665 229 650 433 391 
+220 54 713 619 715 308 
+62 441 181 90 314 308 343 397 441 
+155 37 37 229 598 402 24 454 
+444 349 356 133 426 24 454 
+512 595 407 271 391 446 209 280 441 32 
+160 450 167 48 325 433 601 239 140 
+416 226 158 439 621 703 445 54 
+44 669 57 601 426 45 385 114 274 
+325 324 659 420 11 504 559 420 441 661 
+476 41 446 48 308 87 674 238 389 490 
+653 351 274 643 263 68 352 688 75 
+274 380 537 251 172 340 2 
+326 583 289 231 493 573 458 
+286 542 495 24 38 138 380 
+233 261 570 643 272 380 649 173 700 99 
+489 522 375 500 89 37 
+54 48 308 663 36 524 579 
+377 635 672 548 560 560 
+669 655 712 632 430 485 333 
+318 125 221 320 518 200 717 286 290 
+339 593 192 199 10 222 28 188 
+416 326 150 427 702 545 
+439 62 376 614 704 585 420 
+472 715 433 33 588 520 
+599 163 304 15 308 460 124 668 
+221 114 424 290 581 215 
+679 247 685 217 36 280 260 
+441 280 433 474 280 339 39 358 644 410 
+74 439 170 477 48 577 243 
+654 247 591 586 352 574 718 
+453 325 517 280 373 
+289 720 331 393 434 528 347 454 544 
+286 109 319 555 201 558 524 579 400 
+498 380 632 699 575 268 134 317 530 
+315 333 127 440 473 571 42 627 24 
+363 671 333 308 205 308 655 280 170 1 
+62 324 364 264 361 433 668 265 
+660 710 665 715 54 280 
+308 295 95 36 441 652 576 156 
+369 420 179 355 668 62 324 419 413 
+506 424 191 67 286 613 
+54 280 503 428 449 
+605 650 183 102 280 
+126 715 351 668 48 85 372 
+141 25 59 555 616 352 436 
+17 36 468 613 87 
+258 26 374 45 564 241 626 274 
+253 285 261 426 535 698 606 419 683 
+276 488 451 464 394 506 208 408 
+589 390 396 573 5 263 266 270 456 
+596 426 562 274 237 53 283 210 
+352 334 290 346 587 506 475 521 438 
+144 666 304 233 201 380 224 545 195 
+560 500 303 683 307 
+280 446 194 299 356 393 
+403 422 257 583 542 227 
+222 366 384 89 405 240 321 260 
+376 685 436 489 162 
+48 6 324 87 35 528 193 715 533 
+639 515 649 190 387 570 717 442 568 
+716 176 417 301 126 245 68 420 
+441 200 148 48 608 441 407 
+510 325 361 279 614 308 536 693 48 280 
+481 657 609 717 451 
+621 670 362 308 650 
+261 465 352 70 189 
+513 420 433 200 439 638 159 668 
+585 632 203 424 234 355 216 28 614 
+91 425 441 33 682 656 
+480 308 433 308 439 416 327 566 129 
+50 657 577 198 170 501 43 401 420 93 
+680 181 308 407 88 241 607 
+584 293 550 48 620 715 390 54 
+69 222 296 573 174 505 389 221 
+539 170 548 281 33 459 325 135 443 650 
+694 375 543 332 274 
+615 22 224 420 401 
+341 337 355 275 560 717 331 
+62 630 177 48 548 672 563 
+55 715 577 33 657 201 494 324 
+434 222 14 56 290 72 
+610 556 401 58 420 171 228 
+42 455 237 542 78 606 578 235 86 300 
+326 582 286 67 45 119 
+170 357 33 180 439 429 106 
+651 261 228 120 334 274 434 442 
+664 375 554 604 286 354 442 63 
+101 716 421 715 308 245 
+365 308 641 308 79 291 
+407 194 376 324 165 61 525 521 
+426 312 168 237 290 642 278 628 
+27 436 108 407 36 
+97 697 542 699 186 470 
+45 495 506 93 460 666 331 667 326 
+308 637 131 267 33 537 83 446 
+441 33 308 412 592 680 
+527 286 237 506 306 113 290 
+339 63 703 634 402 380 397 555 
+204 577 164 48 325 310 471 
+283 426 541 469 389 287 290 
+433 318 207 638 156 280 423 
+331 272 86 350 371 511 508 86 
+684 153 322 212 541 657 22 
+286 37 184 20 486 8 627 409 
+415 182 687 202 717 631 
+309 143 280 531 590 170 308 357 
+144 524 401 441 38 636 195 224 
+4 650 308 577 629 677 54 
+196 36 711 324 246 547 433 
+632 460 250 442 609 628 248 636 
+325 398 561 692 668 324 535 301 365 92 
+142 404 308 359 421 36 
+73 262 516 192 463 324 668 
+646 117 178 61 331 286 499 347 
+512 533 166 442 193 286 380 276 
+87 650 16 670 128 36 406 48 538 
+433 36 647 33 681 381 532 147 611 
+530 292 660 182 477 367 521 
+51 717 63 683 307 255 367 
+169 143 560 357 402 214 17 221 
+274 529 132 617 569 86 19 426 289 
+523 181 259 422 411 
+103 643 402 190 565 222 382 
+718 271 329 541 294 
+280 492 280 441 62 302 612 
+232 71 205 645 420 554 324 
